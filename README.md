@@ -1,12 +1,8 @@
-Hi 👋 My name is Alonso Cortez Touzett
+Hi 👋 My name is Alonso Cortez
 ======================================
 
 Junior Backend Developer
-------------------------
 
-I'm a Backend Dev with freenlance experience building APIs. I specialize in Javascript and also have some experience with Flask.
-
-* 🌍  I'm based in Peru 🔴⚪🔴
 * ✉️  You can contact me at [mcorteztouzett@gmail.com](mailto:mcorteztouzett@gmail.com)
 * 🤝  I'm open to collaborating on Backend Projects :)
 
